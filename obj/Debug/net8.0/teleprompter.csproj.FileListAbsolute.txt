@@ -1,0 +1,14 @@
+/Users/acarlseen/Documents/C_Sharp/Tutorials/teleprompter/bin/Debug/net8.0/teleprompter
+/Users/acarlseen/Documents/C_Sharp/Tutorials/teleprompter/bin/Debug/net8.0/teleprompter.deps.json
+/Users/acarlseen/Documents/C_Sharp/Tutorials/teleprompter/bin/Debug/net8.0/teleprompter.runtimeconfig.json
+/Users/acarlseen/Documents/C_Sharp/Tutorials/teleprompter/bin/Debug/net8.0/teleprompter.dll
+/Users/acarlseen/Documents/C_Sharp/Tutorials/teleprompter/bin/Debug/net8.0/teleprompter.pdb
+/Users/acarlseen/Documents/C_Sharp/Tutorials/teleprompter/obj/Debug/net8.0/teleprompter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/acarlseen/Documents/C_Sharp/Tutorials/teleprompter/obj/Debug/net8.0/teleprompter.AssemblyInfoInputs.cache
+/Users/acarlseen/Documents/C_Sharp/Tutorials/teleprompter/obj/Debug/net8.0/teleprompter.AssemblyInfo.cs
+/Users/acarlseen/Documents/C_Sharp/Tutorials/teleprompter/obj/Debug/net8.0/teleprompter.csproj.CoreCompileInputs.cache
+/Users/acarlseen/Documents/C_Sharp/Tutorials/teleprompter/obj/Debug/net8.0/teleprompter.dll
+/Users/acarlseen/Documents/C_Sharp/Tutorials/teleprompter/obj/Debug/net8.0/refint/teleprompter.dll
+/Users/acarlseen/Documents/C_Sharp/Tutorials/teleprompter/obj/Debug/net8.0/teleprompter.pdb
+/Users/acarlseen/Documents/C_Sharp/Tutorials/teleprompter/obj/Debug/net8.0/teleprompter.genruntimeconfig.cache
+/Users/acarlseen/Documents/C_Sharp/Tutorials/teleprompter/obj/Debug/net8.0/ref/teleprompter.dll
